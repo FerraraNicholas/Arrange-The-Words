@@ -1,0 +1,7 @@
+C:\Users\Nicholas\Desktop\CommerceHub\ArrangeTheWords\ArrangeTheWords\obj\Debug\ArrangeTheWords.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas\Desktop\CommerceHub\ArrangeTheWords\ArrangeTheWords\obj\Debug\ArrangeTheWords.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\Desktop\CommerceHub\ArrangeTheWords\ArrangeTheWords\bin\Debug\ArrangeTheWords.exe.config
+C:\Users\Nicholas\Desktop\CommerceHub\ArrangeTheWords\ArrangeTheWords\bin\Debug\ArrangeTheWords.exe
+C:\Users\Nicholas\Desktop\CommerceHub\ArrangeTheWords\ArrangeTheWords\bin\Debug\ArrangeTheWords.pdb
+C:\Users\Nicholas\Desktop\CommerceHub\ArrangeTheWords\ArrangeTheWords\obj\Debug\ArrangeTheWords.exe
+C:\Users\Nicholas\Desktop\CommerceHub\ArrangeTheWords\ArrangeTheWords\obj\Debug\ArrangeTheWords.pdb
